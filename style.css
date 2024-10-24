@@ -1,0 +1,32 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.container{
+    background-color: aliceblue;
+    padding: 6px;
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    border-radius: 6px;
+
+}
+.container button.b1{
+    padding: 5px;
+    border: 0px;
+    background-color: green;
+    border-radius: 10px;
+}
+.container button.b2{
+    border: 0px;
+    padding: 5px;
+    border-radius: 10px;
+  background-color: rgb(225, 175, 25);
+}
+.container button.b3{
+    border: 0px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: purple;
+}
